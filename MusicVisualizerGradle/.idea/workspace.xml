@@ -72,11 +72,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="681">
-              <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+            <state relative-caret-position="562">
+              <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1777#5714#0" expanded="true" />
@@ -98,18 +98,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/sample/UIController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            <state relative-caret-position="188">
+              <caret line="229" column="17" lean-forward="true" selection-start-line="229" selection-start-column="17" selection-end-line="229" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#4626#4627#0" expanded="true" />
                 <element signature="e#4671#4672#0" expanded="true" />
                 <element signature="method#onSkip#0;class#UIController#0" />
                 <element signature="method#onPlayBack#0;class#UIController#0" />
-                <element signature="method#playButtonPressed#0;class#UIController#0" />
                 <element signature="method#playNextSong#0;class#UIController#0" />
                 <element signature="method#setUpMusicController#0;class#UIController#0" />
                 <element signature="method#getCurrentMediaPlayer#0;class#UIController#0" />
@@ -217,6 +216,47 @@
             <path>
               <item name="MusicVisualizer" type="b2602c69:ProjectViewProjectNode" />
               <item name="MusicVisualizerGradle" type="462c0819:PsiDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicVisualizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicVisualizerGradle" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicVisualizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicVisualizerGradle" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicVisualizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicVisualizerGradle" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicVisualizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicVisualizerGradle" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicVisualizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicVisualizerGradle" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicVisualizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicVisualizerGradle" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicVisualizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicVisualizerGradle" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,7 +291,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545181720330" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547856300249" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/SortingVisualizations" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -261,15 +301,15 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\bryce\IdeaProjects\MusicVisualizerGradle\src\main\resources\Music" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\bryce\IdeaProjects\MusicVisualizerGradle\src\main\resources\Music" />
       <recent name="C:\Users\bryce\IdeaProjects\MusicVisualizerGradle\src\main\resources" />
       <recent name="C:\Users\bryce\IdeaProjects\MusicVisualizerGradle\src\main\java\sample" />
       <recent name="$PROJECT_DIR$/src/main/resources/Music" />
       <recent name="$PROJECT_DIR$/src/main/java/sample" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bryce\IdeaProjects\MusicVisualizerGradle\src\main\resources\Music" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -284,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Gradle.MusicVisualizerGradle [jar]">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -310,7 +350,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicVisualizerGradle [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MusicVisualizerGradle [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -321,7 +361,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="build" />
+            <option value="assemble" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -329,7 +369,7 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MusicVisualizerGradle [classes]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MusicVisualizerGradle [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -340,7 +380,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="classes" />
+            <option value="buildDependents" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -430,19 +470,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Gradle.MusicVisualizerGradle [build]" />
       <item itemvalue="Gradle.MusicVisualizerGradle [jar]" />
-      <item itemvalue="Gradle.MusicVisualizerGradle [clean]" />
-      <item itemvalue="Gradle.MusicVisualizerGradle [classes]" />
       <item itemvalue="Gradle.MusicVisualizerGradle [testClasses]" />
+      <item itemvalue="Gradle.MusicVisualizerGradle [assemble]" />
+      <item itemvalue="Gradle.MusicVisualizerGradle [buildDependents]" />
+      <item itemvalue="Gradle.MusicVisualizerGradle [clean]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MusicVisualizerGradle [clean]" />
+        <item itemvalue="Gradle.MusicVisualizerGradle [buildDependents]" />
+        <item itemvalue="Gradle.MusicVisualizerGradle [assemble]" />
         <item itemvalue="Gradle.MusicVisualizerGradle [jar]" />
         <item itemvalue="Gradle.MusicVisualizerGradle [testClasses]" />
-        <item itemvalue="Gradle.MusicVisualizerGradle [classes]" />
-        <item itemvalue="Gradle.MusicVisualizerGradle [clean]" />
-        <item itemvalue="Gradle.MusicVisualizerGradle [build]" />
       </list>
     </recent_temporary>
   </component>
@@ -492,12 +532,12 @@
       <workItem from="1545251966505" duration="1290000" />
       <workItem from="1545625623168" duration="109000" />
       <workItem from="1547431712306" duration="35000" />
-      <workItem from="1547855130880" duration="256000" />
+      <workItem from="1547855130880" duration="1109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148585000" />
+    <option name="totallyTimeSpent" value="149438000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -509,7 +549,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14319809" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -538,7 +578,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.32975337" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" weight="0.32975337" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.32975337" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -632,8 +672,8 @@
     <entry file="file://E:/MusicVisualizerGradle/src/main/java/sample/UIController.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+        <state relative-caret-position="562">
+          <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1777#5714#0" expanded="true" />
@@ -648,34 +688,6 @@
           <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="method#MusicController#0;class#MusicController#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/UIController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4626#4627#0" expanded="true" />
-            <element signature="e#4671#4672#0" expanded="true" />
-            <element signature="method#onSkip#0;class#UIController#0" />
-            <element signature="method#onPlayBack#0;class#UIController#0" />
-            <element signature="method#playButtonPressed#0;class#UIController#0" />
-            <element signature="method#playNextSong#0;class#UIController#0" />
-            <element signature="method#setUpMusicController#0;class#UIController#0" />
-            <element signature="method#getCurrentMediaPlayer#0;class#UIController#0" />
-            <element signature="method#getColor#0;class#UIController#0" />
-            <element signature="method#getMusicController#0;class#UIController#0" />
-            <element signature="method#changePlayButtonText#0;class#UIController#0" />
-            <element signature="method#displaySongName#0;class#UIController#0" />
-            <element signature="method#applyVolume#0;class#UIController#0" />
-            <element signature="method#setSongProgressBar#0;class#UIController#0" />
-            <element signature="method#getPlayerReady#0;class#UIController#0" />
-            <element signature="method#shuffleSongs#0;class#UIController#0" />
-            <element signature="method#getSongIndex#0;class#UIController#0" />
-            <element signature="method#clearSongs#0;class#UIController#0" />
           </folding>
         </state>
       </provider>
@@ -699,6 +711,33 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="125" selection-start-line="47" selection-start-column="125" selection-end-line="47" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/UIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="229" column="17" lean-forward="true" selection-start-line="229" selection-start-column="17" selection-end-line="229" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4626#4627#0" expanded="true" />
+            <element signature="e#4671#4672#0" expanded="true" />
+            <element signature="method#onSkip#0;class#UIController#0" />
+            <element signature="method#onPlayBack#0;class#UIController#0" />
+            <element signature="method#playNextSong#0;class#UIController#0" />
+            <element signature="method#setUpMusicController#0;class#UIController#0" />
+            <element signature="method#getCurrentMediaPlayer#0;class#UIController#0" />
+            <element signature="method#getColor#0;class#UIController#0" />
+            <element signature="method#getMusicController#0;class#UIController#0" />
+            <element signature="method#changePlayButtonText#0;class#UIController#0" />
+            <element signature="method#displaySongName#0;class#UIController#0" />
+            <element signature="method#applyVolume#0;class#UIController#0" />
+            <element signature="method#setSongProgressBar#0;class#UIController#0" />
+            <element signature="method#getPlayerReady#0;class#UIController#0" />
+            <element signature="method#shuffleSongs#0;class#UIController#0" />
+            <element signature="method#getSongIndex#0;class#UIController#0" />
+            <element signature="method#clearSongs#0;class#UIController#0" />
+          </folding>
         </state>
       </provider>
     </entry>
